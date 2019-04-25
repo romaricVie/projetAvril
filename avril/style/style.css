@@ -1,0 +1,167 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+/*Menu  #02b8dd*/
+
+.navbar
+{
+	background-color:#ffd301;
+	border-bottom-color:#ffd301;
+}
+
+.navbar-brand
+{
+	font-family:'Showcard Gothic';
+	color:#02b8dd !important;
+	border-bottom-color:none;
+}
+ul li
+{
+	text-transform:uppercase;
+	letter-spacing:2px;
+	text-decoration: none;
+	font-weight:bold;
+	padding:9px;	
+}
+
+ul li a
+{
+	color:#fff;
+	/*padding: 12px;*/
+}
+.right
+{
+	position:absolute;
+	left:auto;
+}
+
+
+.image
+{
+  margin-top: 60px;
+
+}
+
+.slogan
+{
+	text-align: center;
+	font-weight: bold;
+	color: #ffd301;
+	font-size: 1.6em;
+}
+/*Devis*/
+.devis
+{
+	text-align: center;
+}
+/*a propos*/
+.propos
+{
+	border: 1px solid #ffd301;
+	border-radius: 5px;
+	padding: 50px;
+	box-shadow: 0px 0px #ffd301;
+	background:##deffef;
+}
+
+.heading
+{
+	margin-right: 50%;
+}
+
+
+
+
+
+
+
+/*footer*/
+footer
+{
+	margin-top: 100px;
+}
+.footer
+{
+	
+	height:300px;
+	color: #fff;
+	background-color:#444;
+	text-align:center;
+	padding-top:50px;
+}
+
+.horizontal
+{
+  margin:10px auto;
+  width: 200px;
+  height: 2px;
+  background:#fff
+}
+
+.ft
+{
+	color:#ffd301;
+}
+
+
+
+footer button
+{
+	float:right;
+	display:inline;
+	margin-right:12px;
+
+}
+
+#nme
+{
+	font-family:'Showcard Gothic';
+	color:#ffd301 !important;
+	text-decoration:none;
+	border-bottom-color:none;
+	
+	
+}
+
+.glyphicon-chevron-up
+{
+	font-size:50px;
+	color:#02b8dd;
+	margin-left:180px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+/*inscription*/
+.inscri
+{
+	color: red;
+}
+
+.form-control
+{
+	width: 40%;
+	position: absolute;
+	left: 30%;
+}
+
+/*connection*/
+.connect
+{
+	color: red;
+}
+
+/*contact*/
+.contact
+{
+	color: red;
+}
+
+/*Vente*/
+.alert
+{
+	text-align: center;
+	font-style: italic;
+}
+
+.prix
+{
+	color: #e7480f;
+	font-weight: bold;
+	font-size: 1.6em;
+
+}
